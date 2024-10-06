@@ -1,0 +1,124 @@
+IMPORTANT INFO ABOUT THIS PRODUCT:
+ALL DATA SHOULD BE MANUALLY QC'D AND CHECKED AGAINST THE CLM/CF6 PRODUCTS
+
+
+**********  BE SURE TO TURN OFF AUTOWRAP BEFORE COPYING THIS INTO A TEXT EDITOR  **********
+
+PRODUCT GENERATED AT: 10/05/2024 11:45Z
+
+=============================================================================================
+2023 SUPPLEMENTAL ANNUAL CLIMATE DATA FOR NORTH LITTLE ROCK
+=============================================================================================
+
+.YEARLY TEMPERATURES...
+THE YEARLY AVERAGE HIGH TEMPERATURE OF 73.7 (+2.6) WAS TIED FOR THE
+5TH WARMEST YEAR ON RECORD, AND THE WARMEST SINCE 2012.
+
+THE YEARLY AVERAGE LOW TEMPERATURE OF 55.0 (+2.5) WAS TIED FOR THE
+4TH WARMEST YEAR ON RECORD, AND THE WARMEST SINCE 2017.
+
+THE YEARLY AVERAGE MEAN TEMPERATURE OF 64.3 (+2.5) WAS TIED FOR THE
+5TH WARMEST YEAR ON RECORD, AND THE WARMEST SINCE 2016.
+
+**FOR RANKING PURPOSES SHOWN ABOVE, A YEAR WAS OMITTED IF IT WAS
+MISSING MORE THAN 7 DAYS WORTH OF DATA**
+
+
+.ADDITIONAL SIGNIFICANT EVENTS DURING THE YEAR...
+
+.YEARLY RAINFALL...
+THE YEARLY RAINFALL TOTAL OF 55.02 INCHES (+3.17) WAS THE 14TH
+WETTEST YEAR ON RECORD AND THE WETTEST SINCE 2020.
+
+
+.YEARLY SNOWFALL...
+THE YEARLY SNOWFALL TOTAL OF 0.4 INCHES (-3.4) WAS TIED FOR THE 40TH
+LEAST SNOWIEST YEAR ON RECORD AND THE LEAST SNOWIEST SINCE 2019.
+
+
+
+(DFN = DEPARTURE FROM NORMAL)
+
+2023 TEMPERATURE AVERAGES AND EXTREMES                      NORTH LITTLE ROCK, ARKANSAS                                 
+---------------------------------------------------------------------------------------------
+             AVERAGE TEMPERATURES             |            TEMPERATURE EXTREMES
+MONTH    HIGH     LOW      MONTHLY     DFN    |    MAX    DATE(S)        MIN    DATE(S)  
+---------------------------------------------------------------------------------------------
+JAN      54.9     39.1     47.0       +6.4    |    72     11             24     14,31    
+FEB      59.2     41.1     50.2       +5.5    |    79     28             24     01       
+MAR      62.3     45.1     53.7       +0.7    |    80     23             26     19       
+APR      71.7     51.7     61.7       -0.0    |    86     04             40     24       
+MAY      81.3     62.4     71.8       +1.8    |    89     31             47     02       
+JUN      89.0     69.1     79.1       +1.1    |    97     25,29-30       65     13       
+JUL      90.5     73.1     81.8       +0.4    |    97     29-30          65     10       
+AUG      94.0     73.0     83.5       +2.7    |    103    25-26          63     31       
+SEP      88.6     66.2     77.4       +3.5    |    98     06             61     18-19    
+OCT      74.6     56.1     65.3       +2.4    |    92     01             31     31       
+NOV      62.0     44.1     53.0       +1.8    |    79     07             29     01       
+DEC      56.1     38.4     47.2       +4.0    |    66     01             28     30       
+---------------------------------------------------------------------------------------------
+ANNUAL   73.7     55.0     64.3       +2.5    |    103    AUG 25-26      24     JAN 14,31
+                                                                                FEB 01                                                                          
+
+
+2023 RAINFALL, DEPARTURES, AND EXTREMES                     NORTH LITTLE ROCK, ARKANSAS                                 
+---------------------------------------------------------------------------------------------
+MONTH        RAINFALL       DFN               MAX/CALENDAR DAY            MAX/24 HOURS                
+---------------------------------------------------------------------------------------------
+JAN          7.50          +3.96              1.31/29TH                   1.31/29TH                   
+FEB          6.09          +2.19              2.32/08TH                   2.32/08TH                   
+MAR          9.28          +4.15              2.30/16TH                   2.30/16TH                   
+APR          8.11          +2.57              2.38/20TH                   2.38/20TH                   
+MAY          2.63          -2.76              2.09/11TH                   2.09/11TH                   
+JUN          4.72          +1.32              1.68/25TH                   1.68/25TH                   
+JUL          3.19          -0.73              0.82/14TH                   0.82/14TH                   
+AUG          1.57          -2.0               0.69/07TH                   0.69/07TH                   
+SEP          0.40          -2.65              0.15/24TH                   0.15/24TH                   
+OCT          6.70          +2.08              3.43/28TH                   3.43/28TH                   
+NOV          3.38          -1.31              1.93/30TH                   1.93/30TH                   
+DEC          1.45          -3.65              0.90/24TH                   0.90/24TH                   
+---------------------------------------------------------------------------------------------
+ANNUAL       55.02         +3.17              3.43/OCT 28                 3.43/OCT 28                 
+
+
+2023 SNOWFALL, DEPARTURES, AND EXTREMES                     NORTH LITTLE ROCK, ARKANSAS                                 
+---------------------------------------------------------------------------------------------
+MONTH   SNOW      DFN       MAX/CALENDAR DAY       MAX/24 HOUR       GREATEST DEPTH/DATE(S)
+---------------------------------------------------------------------------------------------
+JAN     0.4      -0.6       0.4/31ST               0.4/31ST          0                 
+FEB     T        -1.7       T/16TH                 T/16TH            0                 
+MAR     T        -0.4       T/31ST                 T/31ST            0                 
+APR     0.0       0.0       0.0                    0.0               0                 
+OCT     0.0       0.0       0.0                    0.0               0                 
+NOV     0.0      -0.1       0.0                    0.0               0                 
+DEC     0.0      -0.6       0.0                    0.0               0                 
+---------------------------------------------------------------------------------------------
+ANN     0.4      -3.4       0.4/JAN 31             0.4/JAN 31        0                 
+
+
+---------------------------------------------------------------------------------------------
+MISCELLANEOUS DATA (FIRST/LAST DATES, ETC.)
+---------------------------------------------------------------------------------------------
+DAYS WITH MINIMUMS AT OR BELOW 32 DEGREES.........................27
+DAYS WITH MINIMUMS AT OR BELOW 20 DEGREES.........................00
+DAYS WITH MINIMUMS AT OR BELOW 0 DEGREES..........................00
+DAYS WITH MAXIMUMS AT OR BELOW 32 DEGREES.........................02
+DAYS WITH MAXIMUMS AT OR ABOVE 90 DEGREES.........................74
+DAYS WITH MAXIMUMS AT OR ABOVE 100 DEGREES........................08
+DAYS WITH MAXIMUMS AT OR ABOVE 105 DEGREES........................00
+DAYS WITH MAXIMUMS AT OR ABOVE 110 DEGREES........................00
+LAST FREEZE.......................................................MARCH 20TH
+FIRST 80-DEGREE DAY...............................................MARCH 23RD
+FIRST 90-DEGREE DAY...............................................JUNE 1ST
+FIRST 100-DEGREE DAY..............................................AUGUST 3RD
+LAST 100-DEGREE DAY...............................................AUGUST 26TH
+LAST 90-DEGREE DAY................................................OCTOBER 2ND
+LAST 80-DEGREE DAY................................................OCTOBER 25TH
+FIRST FREEZE......................................................NOVEMBER 1ST
+
+
+---------------------------------------------------------------------------------------------
+NEW DAILY RECORDS
+---------------------------------------------------------------------------------------------
+
+DAILY RECORD DATA 2023 IS NOT AVAILABLE, OR THERE IS NOT MATCHING DAILY RECORD DATA IN ./records FOR 2023.

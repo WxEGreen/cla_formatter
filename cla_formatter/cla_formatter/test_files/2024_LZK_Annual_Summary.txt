@@ -1,0 +1,361 @@
+{
+    "JAN": {
+        "monthly_max_min": [
+            69,
+            5
+        ],
+        "high_dates": "01/30",
+        "low_dates": [
+            "01/16",
+            "01/17"
+        ],
+        "monthly_avg_temps_dfn": [
+            44.4,
+            28.4,
+            36.4,
+            -4.2
+        ],
+        "monthly_rain_and_dfn": [
+            8.98,
+            5.44
+        ],
+        "max_clndr_24hr_rain": [
+            1.93,
+            "01/23 TO 01/23",
+            1.93,
+            "01/23 TO 01/23"
+        ],
+        "monthly_snow_sdepth_dfn": [
+            3.1,
+            2.1,
+            2.0,
+            [
+                "01/17",
+                "01/18",
+                "01/15"
+            ]
+        ],
+        "max_clndr_24hr_snow": [
+            0.0,
+            NaN
+        ]
+    },
+    "FEB": {
+        "monthly_max_min": [
+            78,
+            24
+        ],
+        "high_dates": "02/25",
+        "low_dates": "02/18",
+        "monthly_avg_temps_dfn": [
+            62.7,
+            43.3,
+            53.0,
+            8.3
+        ],
+        "monthly_rain_and_dfn": [
+            2.07,
+            -1.83
+        ],
+        "max_clndr_24hr_rain": [
+            0.96,
+            "02/03 TO 02/03",
+            0.96,
+            "02/03 TO 02/03"
+        ],
+        "monthly_snow_sdepth_dfn": [
+            "T",
+            -1.7,
+            0.0,
+            NaN
+        ],
+        "max_clndr_24hr_snow": [
+            "T",
+            NaN
+        ]
+    },
+    "MAR": {
+        "monthly_max_min": [
+            77,
+            32
+        ],
+        "high_dates": "03/04",
+        "low_dates": "03/19",
+        "monthly_avg_temps_dfn": [
+            65.8,
+            47.7,
+            56.7,
+            3.7
+        ],
+        "monthly_rain_and_dfn": [
+            5.25,
+            0.12
+        ],
+        "max_clndr_24hr_rain": [
+            2.48,
+            "03/14 TO 03/14",
+            2.48,
+            "03/14 TO 03/14"
+        ],
+        "monthly_snow_sdepth_dfn": [
+            0.0,
+            -0.4,
+            0.0,
+            NaN
+        ],
+        "max_clndr_24hr_snow": [
+            0.0,
+            NaN
+        ]
+    },
+    "APR": {
+        "monthly_max_min": [
+            82,
+            40
+        ],
+        "high_dates": [
+            "04/13",
+            "04/27",
+            "04/30"
+        ],
+        "low_dates": "04/04",
+        "monthly_avg_temps_dfn": [
+            73.2,
+            55.0,
+            64.1,
+            2.4
+        ],
+        "monthly_rain_and_dfn": [
+            5.48,
+            -0.06
+        ],
+        "max_clndr_24hr_rain": [
+            2.25,
+            "04/25 TO 04/25",
+            2.25,
+            "04/25 TO 04/25"
+        ],
+        "monthly_snow_sdepth_dfn": [
+            0.0,
+            0.0,
+            0.0,
+            NaN
+        ],
+        "max_clndr_24hr_snow": [
+            0.0,
+            NaN
+        ]
+    },
+    "MAY": {
+        "monthly_max_min": [
+            90,
+            57
+        ],
+        "high_dates": "05/19",
+        "low_dates": "05/11",
+        "monthly_avg_temps_dfn": [
+            81.5,
+            65.3,
+            73.4,
+            3.4
+        ],
+        "monthly_rain_and_dfn": [
+            10.0,
+            4.61
+        ],
+        "max_clndr_24hr_rain": [
+            4.95,
+            "05/31 TO 05/31",
+            4.95,
+            "05/31 TO 05/31"
+        ],
+        "monthly_snow_sdepth_dfn": [
+            0.0,
+            0.0,
+            0.0,
+            NaN
+        ],
+        "max_clndr_24hr_snow": [
+            0.0,
+            NaN
+        ]
+    },
+    "JUN": {
+        "monthly_max_min": [
+            98,
+            62
+        ],
+        "high_dates": "06/24",
+        "low_dates": "06/10",
+        "monthly_avg_temps_dfn": [
+            88.8,
+            70.5,
+            79.7,
+            1.7
+        ],
+        "monthly_rain_and_dfn": [
+            2.58,
+            -0.82
+        ],
+        "max_clndr_24hr_rain": [
+            0.87,
+            "06/03 TO 06/03",
+            0.87,
+            "06/03 TO 06/03"
+        ],
+        "monthly_snow_sdepth_dfn": [
+            0.0,
+            0.0,
+            0.0,
+            NaN
+        ],
+        "max_clndr_24hr_snow": [
+            0.0,
+            NaN
+        ]
+    },
+    "JUL": {
+        "monthly_max_min": [
+            97,
+            65
+        ],
+        "high_dates": [
+            "07/03",
+            "07/04"
+        ],
+        "low_dates": [
+            "07/19",
+            "07/20"
+        ],
+        "monthly_avg_temps_dfn": [
+            88.1,
+            72.2,
+            80.1,
+            -1.3
+        ],
+        "monthly_rain_and_dfn": [
+            6.72,
+            2.8
+        ],
+        "max_clndr_24hr_rain": [
+            2.87,
+            "07/08 TO 07/08",
+            2.87,
+            "07/08 TO 07/08"
+        ],
+        "monthly_snow_sdepth_dfn": [
+            0.0,
+            0.0,
+            0.0,
+            NaN
+        ],
+        "max_clndr_24hr_snow": [
+            0.0,
+            NaN
+        ]
+    },
+    "misc_temp_data": {
+        "n days - minT <= 32": 21,
+        "n days - minT <= 20": 7,
+        "n days - minT <= 0": 0,
+        "n days - maxT <= 32": 5,
+        "n days - maxT >= 90": 36,
+        "n days - maxT >= 100": 0,
+        "n days - maxT >= 105": 0,
+        "n days - maxT >= 110": 0,
+        "LAST FREEZE": "MARCH 19TH",
+        "FIRST 80F": "APRIL 7TH",
+        "FIRST 90F": "MAY 19TH",
+        "FIRST 100F": "NONE",
+        "LAST 100F": "NONE",
+        "LAST 90F": "AUGUST 13TH",
+        "LAST 80F": "AUGUST 13TH",
+        "FIRST FREEZE": null
+    },
+    "cf6_data": {
+        "JAN": {
+            "max_clndr_24hr_snow": [
+                2.0,
+                "01/14"
+            ],
+            "max_sdepth": [
+                2,
+                [
+                    "01/15",
+                    "01/16",
+                    "01/17",
+                    "01/18"
+                ]
+            ]
+        },
+        "FEB": {
+            "max_clndr_24hr_snow": [
+                "T",
+                "02/29"
+            ],
+            "max_sdepth": [
+                0,
+                NaN
+            ]
+        },
+        "MAR": {
+            "max_clndr_24hr_snow": [
+                0.0,
+                NaN
+            ],
+            "max_sdepth": [
+                0,
+                NaN
+            ]
+        },
+        "APR": {
+            "max_clndr_24hr_snow": [
+                0.0,
+                NaN
+            ],
+            "max_sdepth": [
+                0,
+                NaN
+            ]
+        },
+        "MAY": {
+            "max_clndr_24hr_snow": [
+                0.0,
+                NaN
+            ],
+            "max_sdepth": [
+                0,
+                NaN
+            ]
+        },
+        "JUN": {
+            "max_clndr_24hr_snow": [
+                "T",
+                "06/9"
+            ],
+            "max_sdepth": [
+                0,
+                NaN
+            ]
+        },
+        "JUL": {
+            "max_clndr_24hr_snow": [
+                0.0,
+                NaN
+            ],
+            "max_sdepth": [
+                0,
+                NaN
+            ]
+        },
+        "pres": {
+            "min_pres": [],
+            "max_pres": []
+        },
+        "wind": {
+            "max_gst": [],
+            "max_wdr": [],
+            "max_wd_dates": []
+        }
+    }
+}

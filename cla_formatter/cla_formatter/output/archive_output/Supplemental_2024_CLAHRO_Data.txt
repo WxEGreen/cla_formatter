@@ -1,0 +1,43 @@
+IMPORTANT INFO ABOUT THIS PRODUCT:
+ALL DATA SHOULD BE MANUALLY QC'D AND CHECKED AGAINST THE CLM/CF6 PRODUCTS
+
+2024 SUPPLEMENTAL ANNUAL CLIMATE DATA FOR HARRISON
+
+(DFN = DEPARTURE FROM NORMAL)
+
+2024 TEMPERATURE AVERAGES AND EXTREMES                     HARRISON, ARKANSAS
+---------------------------------------------------------------------------------------------
+             AVERAGE TEMPERATURES             |            TEMPERATURE EXTREMES
+MONTH     HIGH     LOW     MONTHLY     DFN    |    MAX      DATE(S)         MIN      DATE(S)
+---------------------------------------------------------------------------------------------
+JAN       41.5    23.1     32.3       -4.7    |    65       29              -4       16
+FEB       62.1    37.4     49.8       +8.9    |    84       27              22       29
+MAR       66.0    41.9     54.0       +4.8    |    82       14              25       19
+APR       72.1    50.0     61.0       +2.8    |    87       14              33       22
+MAY       79.4    60.4     69.9       +3.7    |    90       26              52       10
+JUN       87.6    64.7     76.1       +1.7    |    98       24              53       10
+JUL       87.8    67.2     77.5       -1.0    |    98       04              58       19/20
+---------------------------------------------------------------------------------------------
+ANNUAL    70.9    49.2     60.1       +16.2   |    98       JUN 24          -4       JAN 16
+
+
+2024 RAINFALL, DEPARTURES, AND EXTREMES                    HARRISON, ARKANSAS
+---------------------------------------------------------------------------------------------
+MONTH        RAINFALL       DFN               MAX/CALENDAR DAY            MAX/24 HOURS
+---------------------------------------------------------------------------------------------
+JAN          4.92          +2.25              1.02/22ND                   1.02/22ND
+FEB          1.61          -0.81              0.67/03RD-04TH              1.12/03RD-04TH
+MAR          3.29          -0.62              1.80/25TH                   1.80/25TH
+APR          3.86          -1.12              1.30/10TH                   1.30/10TH
+MAY          4.17          -0.64              0.85/05TH                   0.85/05TH
+JUN          0.47          -3.38              0.25/31ST-01ST              0.27/31ST-01ST
+JUL          7.12          +3.45              2.44/08TH-09TH              3.74/08TH-09TH
+---------------------------------------------------------------------------------------------
+ANNUAL       25.44         -0.87              2.44/JUL 08-09              3.74/JUL 08-09
+
+
+2024 SNOWFALL, DEPARTURES, AND EXTREMES                    HARRISON, ARKANSAS
+---------------------------------------------------------------------------------------------
+MONTH   SNOW      DFN       MAX/CALENDAR DAY       MAX/24 HOUR       GREATEST DEPTH/DATE
+---------------------------------------------------------------------------------------------
+JAN     6.0      +3.8       0.0/|*Check Date(s)*|                    0.0/|*Check Date(s)*|               5/16TH
