@@ -1,0 +1,102 @@
+IMPORTANT INFO ABOUT THIS PRODUCT:
+ALL DATA SHOULD BE MANUALLY QC'D AND CHECKED AGAINST THE CLM/CF6 PRODUCTS
+PRODUCT GENERATED AT: 08/15/2024 06:17Z
+
+=============================================================================================
+2024 SUPPLEMENTAL ANNUAL CLIMATE DATA FOR PINE BLUFF
+=============================================================================================
+
+(DFN = DEPARTURE FROM NORMAL)
+
+2024 TEMPERATURE AVERAGES AND EXTREMES                      PINE BLUFF, ARKANSAS                                        
+---------------------------------------------------------------------------------------------
+             AVERAGE TEMPERATURES             |            TEMPERATURE EXTREMES
+MONTH    HIGH     LOW      MONTHLY     DFN    |    MAX    DATE(S)        MIN    DATE(S)  
+---------------------------------------------------------------------------------------------
+JAN      48.5     30.6     39.6       -3.2    |    74     30             9      16-17    
+FEB      65.2     43.7     54.4       +7.9    |    81     25             26     18       
+MAR      68.4     48.1     58.2       +3.6    |    81     04,13          34     19       
+APR      77.4     57.2     67.3       +4.2    |    87     27             40     05       
+MAY      85.9     67.2     76.5       +4.9    |    93     19,27          54     11       
+JUN      91.4     71.3     81.4       +2.3    |    100    30             61     13       
+JUL      90.9     73.3     82.1       +0.2    |    100    03             66     21       
+---------------------------------------------------------------------------------------------
+ANNUAL   75.4     55.9     65.6       +2.8    |    100    JUN 30         9      JAN 16-17
+                                                          JUL 03                                                    
+
+
+2024 RAINFALL, DEPARTURES, AND EXTREMES                     PINE BLUFF, ARKANSAS                                        
+---------------------------------------------------------------------------------------------
+MONTH        RAINFALL       DFN               MAX/CALENDAR DAY            MAX/24 HOURS                
+---------------------------------------------------------------------------------------------
+JAN          7.33          +3.51              1.98/23RD-24TH              2.04/23RD-24TH              
+FEB          3.34          -0.93              1.01/10TH-11TH              1.03/10TH-11TH              
+MAR          4.38          -0.91              1.77/14TH-15TH              1.98/14TH-15TH              
+APR          4.83          -0.52              2.13/08TH-09TH              2.36/08TH-09TH              
+MAY          6.30          +1.50              1.99/24TH-25TH              2.12/24TH-25TH              
+JUN          3.54          +0.27              1.65/03RD                   1.65/03RD                   
+JUL          3.08          -0.61              1.40/08TH                   1.40/08TH                   
+---------------------------------------------------------------------------------------------
+ANNUAL       32.80         +2.31              2.13/APR 08-09              2.36/APR 08-09              
+
+
+2024 SNOWFALL, DEPARTURES, AND EXTREMES                     PINE BLUFF, ARKANSAS                                        
+---------------------------------------------------------------------------------------------
+MONTH   SNOW      DFN       MAX/CALENDAR DAY       MAX/24 HOUR       GREATEST DEPTH/DATE(S)
+---------------------------------------------------------------------------------------------
+JAN     0.5      -0.6       0.5/15TH               0.5/15TH          0                 
+FEB     T        -0.9       T/29TH                 T/29TH            0                 
+MAR     0.0      -0.3       0.0                    0.0               0                 
+APR     0.0       0.0       0.0                    0.0               0                 
+---------------------------------------------------------------------------------------------
+ANN     0.5      -1.8       0.5/JAN 15             0.5/JAN 15        0                 
+
+
+---------------------------------------------------------------------------------------------
+MISCELLANEOUS DATA (FIRST/LAST DATES, ETC.)
+---------------------------------------------------------------------------------------------
+DAYS WITH MINIMUMS AT OR BELOW 32 DEGREES.........................21
+DAYS WITH MINIMUMS AT OR BELOW 20 DEGREES.........................06
+DAYS WITH MINIMUMS AT OR BELOW 0 DEGREES..........................00
+DAYS WITH MAXIMUMS AT OR BELOW 32 DEGREES.........................04
+DAYS WITH MAXIMUMS AT OR ABOVE 90 DEGREES.........................60
+DAYS WITH MAXIMUMS AT OR ABOVE 100 DEGREES........................03
+DAYS WITH MAXIMUMS AT OR ABOVE 105 DEGREES........................00
+DAYS WITH MAXIMUMS AT OR ABOVE 110 DEGREES........................00
+LAST FREEZE.......................................................FEBRUARY 19TH
+FIRST 80-DEGREE DAY...............................................FEBRUARY 25TH
+FIRST 90-DEGREE DAY...............................................MAY 7TH
+FIRST 100-DEGREE DAY..............................................JUNE 30TH
+LAST 100-DEGREE DAY...............................................AUGUST 6TH
+LAST 90-DEGREE DAY................................................AUGUST 14TH
+LAST 80-DEGREE DAY................................................AUGUST 14TH
+FIRST FREEZE......................................................NONE
+
+
+RECORD HIGHS
+DATE    RECORD TYPE                     NEW RECORD        OLD RECORD        
+01/15   COOLEST HIGH TEMPERATURE        17 IN 2024        |*CHECK PBF CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+01/16   COOLEST HIGH TEMPERATURE        23 IN 2024        |*CHECK PBF CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+
+
+RECORD LOWS
+DATE    RECORD TYPE                     NEW RECORD        OLD RECORD        
+01/16   LOW TEMPERATURE                 9 IN 2024         11 IN 2018        
+02/09   WARMEST LOW TEMPERATURE         63 IN 2024        |*CHECK PBF CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+02/27   WARMEST LOW TEMPERATURE         65 IN 2024        |*CHECK PBF CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+04/01   WARMEST LOW TEMPERATURE         68 IN 2024        |*CHECK PBF CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+04/17   WARMEST LOW TEMPERATURE         70 IN 2024        |*CHECK PBF CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+05/07   WARMEST LOW TEMPERATURE         74 IN 2024        |*CHECK PBF CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+05/08   WARMEST LOW TEMPERATURE         76 IN 2024        |*CHECK PBF CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+06/30   WARMEST LOW TEMPERATURE         80 IN 2024        |*CHECK PBF CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+07/04   WARMEST LOW TEMPERATURE         79 IN 2024        |*CHECK PBF CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+
+
+RECORD RAINFALL
+DATE    NEW RECORD        OLD RECORD        
+01/23   1.98 IN 2024      1.99 IN 2024      
+
+
+RECORD SNOWFALL
+DATE    NEW RECORD        OLD RECORD        
+02/29   T IN 2024         NO PREV DAILY RECORD

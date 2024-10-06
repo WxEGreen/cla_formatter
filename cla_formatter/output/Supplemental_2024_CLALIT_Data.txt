@@ -1,0 +1,136 @@
+IMPORTANT INFO ABOUT THIS PRODUCT:
+ALL DATA SHOULD BE MANUALLY QC'D AND CHECKED AGAINST THE CLM/CF6 PRODUCTS
+
+
+**********  BE SURE TO TURN OFF AUTOWRAP BEFORE COPYING THIS INTO A TEXT EDITOR  **********
+
+PRODUCT GENERATED AT: 10/06/2024 09:16Z
+
+=============================================================================================
+2024 SUPPLEMENTAL ANNUAL CLIMATE DATA FOR LITTLE ROCK
+=============================================================================================
+
+.YEARLY TEMPERATURES...
+
+UPDATED RANKED ANNUAL TEMPERATURE DATA FOR 2024 IS NOT AVAILABLE YET.
+
+.ADDITIONAL SIGNIFICANT EVENTS DURING THE YEAR...
+MINIMUM SEA LEVEL PRESSURE WAS MEASURED AT 29.82 INCHES ON AUGUST 7TH.
+
+MAXIMUM SEA LEVEL PRESSURE WAS MEASURED AT 30.72 INCHES ON JANUARY 20TH.
+
+WINDS GUSTED TO 60 MPH/310 DEGREES ON MAY 08TH.
+
+WINDS GUSTED TO 53 MPH/70 DEGREES ON JUNE 09TH.
+
+WINDS GUSTED TO 54 MPH/350 DEGREES ON AUGUST 17TH.
+
+
+.YEARLY RAINFALL...
+
+UPDATED RANKED ANNUAL RAINFALL DATA FOR 2024 IS NOT AVAILABLE YET.
+
+.YEARLY SNOWFALL...
+
+UPDATED RANKED ANNUAL SNOWFALL DATA FOR 2024 IS NOT AVAILABLE YET.
+
+
+(DFN = DEPARTURE FROM NORMAL)
+
+2024 TEMPERATURE AVERAGES AND EXTREMES                      LITTLE ROCK, ARKANSAS                                       
+---------------------------------------------------------------------------------------------
+             AVERAGE TEMPERATURES             |            TEMPERATURE EXTREMES
+MONTH    HIGH     LOW      MONTHLY     DFN    |    MAX    DATE(S)        MIN    DATE(S)  
+---------------------------------------------------------------------------------------------
+JAN      48.3     29.7     39.0       -1.7    |    74     30             1      17       
+FEB      66.0     43.7     54.8       +10.1   |    81     25             26     18       
+MAR      69.2     48.3     58.7       +6.0    |    81     04,14          32     19       
+APR      76.0     56.1     66.1       +4.7    |    85     17             41     04-05,22 
+MAY      84.8     66.4     75.6       +5.7    |    92     19,26-27       56     11       
+JUN      91.8     71.7     81.8       +3.8    |    99     23-24          65     13       
+JUL      90.9     74.0     82.5       +1.1    |    100    03             68     20-21    
+AUG      95.2     72.7     84.0       +3.2    |    105    18             63     22       
+SEP      86.3     67.9     77.1       +3.1    |    96     20             55     09       
+---------------------------------------------------------------------------------------------
+ANNUAL   78.7     58.9     68.8       +4.0    |    105    AUG 18         1      JAN 17   
+
+
+2024 RAINFALL, DEPARTURES, AND EXTREMES                     LITTLE ROCK, ARKANSAS                                       
+---------------------------------------------------------------------------------------------
+MONTH        RAINFALL       DFN               MAX/CALENDAR DAY            MAX/24 HOURS                
+---------------------------------------------------------------------------------------------
+JAN          9.13          +5.63              2.59/22ND-23RD              2.66/22ND-23RD              
+FEB          3.10          -0.87              0.90/03RD-04TH              1.08/03RD-04TH              
+MAR          5.98          +1.02              3.59/14TH-15TH              4.14/14TH-15TH              
+APR          4.88          -0.71              1.15/08TH-09TH              1.31/08TH-09TH              
+MAY          13.30         +8.22              5.41/31ST                   5.41/31ST                   
+JUN          1.87          -1.68              0.72/31ST-01ST              4.77/31ST-01ST              
+JUL          5.21          +1.88              2.62/08TH-09TH              3.44/08TH-09TH              
+AUG          1.71          -1.45              1.41/18TH                   1.41/18TH                   
+SEP          1.67          -1.34              0.94/12TH                   0.94/12TH                   
+---------------------------------------------------------------------------------------------
+ANNUAL       46.85         +10.7              5.41/MAY 31                 5.41/MAY 31                 
+
+
+2024 SNOWFALL, DEPARTURES, AND EXTREMES                     LITTLE ROCK, ARKANSAS                                       
+---------------------------------------------------------------------------------------------
+MONTH   SNOW      DFN       MAX/CALENDAR DAY       MAX/24 HOUR       GREATEST DEPTH/DATE(S)
+---------------------------------------------------------------------------------------------
+JAN     3.7      +2.6       2.4/14TH               2.4/14TH          3/16TH            
+FEB     T        -1.6       T/29TH                 T/29TH            0                 
+MAR     0.0      -0.5       0.0                    0.0               0                 
+APR     0.0       0.0       0.0                    0.0               0                 
+---------------------------------------------------------------------------------------------
+ANN     3.7      +0.5       2.4/JAN 14             2.4/JAN 14        3/JAN 16          
+
+
+---------------------------------------------------------------------------------------------
+MISCELLANEOUS DATA (FIRST/LAST DATES, ETC.)
+---------------------------------------------------------------------------------------------
+DAYS WITH MINIMUMS AT OR BELOW 32 DEGREES.........................21
+DAYS WITH MINIMUMS AT OR BELOW 20 DEGREES.........................07
+DAYS WITH MINIMUMS AT OR BELOW 0 DEGREES..........................00
+DAYS WITH MAXIMUMS AT OR BELOW 32 DEGREES.........................04
+DAYS WITH MAXIMUMS AT OR ABOVE 90 DEGREES.........................83
+DAYS WITH MAXIMUMS AT OR ABOVE 100 DEGREES........................07
+DAYS WITH MAXIMUMS AT OR ABOVE 105 DEGREES........................01
+DAYS WITH MAXIMUMS AT OR ABOVE 110 DEGREES........................00
+LAST FREEZE.......................................................MARCH 19TH
+FIRST 80-DEGREE DAY...............................................FEBRUARY 25TH
+FIRST 90-DEGREE DAY...............................................MAY 7TH
+FIRST 100-DEGREE DAY..............................................JULY 3RD
+LAST 100-DEGREE DAY...............................................AUGUST 28TH
+LAST 90-DEGREE DAY................................................OCTOBER 5TH
+LAST 80-DEGREE DAY................................................OCTOBER 5TH
+FIRST FREEZE......................................................NONE
+
+
+---------------------------------------------------------------------------------------------
+NEW DAILY RECORDS
+---------------------------------------------------------------------------------------------
+
+.RECORD HIGHS...
+DATE    RECORD TYPE                     NEW RECORD        OLD RECORD        
+01/15   COOLEST HIGH TEMPERATURE        20 IN 2024        |*CHECK LIT CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+02/22   HIGH TEMPERATURE                77 IN 2024        77 IN 2023        
+
+.RECORD LOWS...
+DATE    RECORD TYPE                     NEW RECORD        OLD RECORD        
+01/17   LOW TEMPERATURE                 1 IN 2024         5 IN 1982         
+02/27   WARMEST LOW TEMPERATURE         69 IN 2024        |*CHECK LIT CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+04/01   WARMEST LOW TEMPERATURE         69 IN 2024        |*CHECK LIT CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+06/24   WARMEST LOW TEMPERATURE         79 IN 2024        |*CHECK LIT CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+06/25   WARMEST LOW TEMPERATURE         79 IN 2024        |*CHECK LIT CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+07/04   WARMEST LOW TEMPERATURE         82 IN 2024        |*CHECK LIT CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+
+.RECORD RAINFALL...
+DATE    NEW RECORD        OLD RECORD        
+01/23   2.59 IN 2024      2.59 IN 2024      
+03/14   3.59 IN 2024      2.04 IN 1982      
+05/31   5.41 IN 2024      2.78 IN 1974      
+07/08   2.62 IN 2024      1.74 IN 1956      
+
+.RECORD SNOWFALL...
+DATE    NEW RECORD        OLD RECORD        
+01/14   2.4 IN 2024       1.3 IN 1918       
+02/29   T IN 2024         T IN 1912, 1968, 1996

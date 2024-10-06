@@ -1,0 +1,150 @@
+IMPORTANT INFO ABOUT THIS PRODUCT:
+ALL DATA SHOULD BE MANUALLY QC'D AND CHECKED AGAINST THE CLM/CF6 PRODUCTS
+
+
+**********  BE SURE TO TURN OFF AUTOWRAP BEFORE COPYING THIS INTO A TEXT EDITOR  **********
+
+PRODUCT GENERATED AT: 08/26/2024 03:35Z
+
+=============================================================================================
+2023 SUPPLEMENTAL ANNUAL CLIMATE DATA FOR HARRISON
+=============================================================================================
+
+.YEARLY TEMPERATURES...
+THE YEARLY AVERAGE HIGH TEMPERATURE OF 70.9 (+1.9) WAS THE 15TH
+WARMEST YEAR ON RECORD, AND THE WARMEST SINCE 2017.
+
+THE YEARLY AVERAGE LOW TEMPERATURE OF 49.1 (+1.5) WAS TIED FOR THE
+7TH WARMEST YEAR ON RECORD, AND THE WARMEST SINCE 2017.
+
+THE YEARLY AVERAGE MEAN TEMPERATURE OF 60.0 (+1.7) WAS TIED FOR THE
+7TH WARMEST YEAR ON RECORD, AND THE WARMEST SINCE 2017.
+
+**FOR RANKING PURPOSES SHOWN ABOVE, A YEAR WAS OMITTED IF IT WAS
+MISSING MORE THAN 7 DAYS WORTH OF DATA**
+
+
+.ADDITIONAL SIGNIFICANT EVENTS DURING THE YEAR...
+MINIMUM SEA LEVEL PRESSURE WAS MEASURED AT 29.80 INCHES ON SEPTEMBER 23RD.
+
+MAXIMUM SEA LEVEL PRESSURE WAS MEASURED AT 30.65 INCHES ON DECEMBER 14TH.
+
+WINDS GUSTED TO 50 MPH/190 DEGREES ON FEBRUARY 26TH.
+
+WINDS GUSTED TO 53 MPH/170 DEGREES ON FEBRUARY 27TH.
+
+WINDS GUSTED TO 50 MPH/240 DEGREES ON MARCH 31ST.
+
+WINDS GUSTED TO 54 MPH/330 DEGREES ON JULY 30TH.
+
+
+.YEARLY RAINFALL...
+THE YEARLY RAINFALL TOTAL OF 44.64 INCHES (+0.14) WAS THE 37TH
+WETTEST YEAR ON RECORD AND THE WETTEST SINCE 2021.
+
+
+.YEARLY SNOWFALL...
+THE YEARLY SNOWFALL TOTAL OF 11.0 INCHES (+1.5) WAS THE 29TH SNOWIEST
+YEAR ON RECORD AND THE SNOWIEST SINCE 2022.
+
+
+
+(DFN = DEPARTURE FROM NORMAL)
+
+2023 TEMPERATURE AVERAGES AND EXTREMES                      HARRISON, ARKANSAS                                          
+---------------------------------------------------------------------------------------------
+             AVERAGE TEMPERATURES             |            TEMPERATURE EXTREMES
+MONTH    HIGH     LOW      MONTHLY     DFN    |    MAX    DATE(S)        MIN    DATE(S)  
+---------------------------------------------------------------------------------------------
+JAN      51.2     32.2     41.7       +4.7    |    75     02             18     14,31    
+FEB      57.7     35.3     46.5       +5.6    |    79     28             19     01       
+MAR      58.6     37.6     48.1       -1.1    |    81     31             18     19       
+APR      69.4     45.8     57.6       -0.7    |    86     03             32     23-24    
+MAY      78.2     56.2     67.2       +1.0    |    87     08             43     01       
+JUN      86.2     63.0     74.6       +0.2    |    99     29             55     07       
+JUL      89.6     68.4     79.0       +0.5    |    96     13,18          58     10       
+AUG      89.1     68.0     78.5       +0.9    |    99     21             56     16       
+SEP      83.5     59.6     71.6       +1.7    |    93     03             50     18       
+OCT      70.9     49.4     60.2       +0.8    |    86     01-02          25     31       
+NOV      62.2     38.4     50.3       +1.8    |    84     07-08          20     01       
+DEC      54.5     35.6     45.1       +5.4    |    67     07,23          21     19       
+---------------------------------------------------------------------------------------------
+ANNUAL   70.9     49.1     60.0       +1.7    |    99     JUN 29         18     JAN 14,31
+                                                          AUG 21                MAR 19                
+
+
+2023 RAINFALL, DEPARTURES, AND EXTREMES                     HARRISON, ARKANSAS                                          
+---------------------------------------------------------------------------------------------
+MONTH        RAINFALL       DFN               MAX/CALENDAR DAY            MAX/24 HOURS                
+---------------------------------------------------------------------------------------------
+JAN          2.74          +0.07              1.00/24TH                   1.00/24TH                   
+FEB          3.34          +0.92              1.90/07TH-08TH              2.04/07TH-08TH              
+MAR          7.39          +3.48              2.33/02ND-03RD              2.78/02ND-03RD              
+APR          1.35          -3.63              0.80/27TH                   0.80/27TH                   
+MAY          5.21          +0.40              1.44/10TH-11TH              2.31/10TH-11TH              
+JUN          4.39          +0.54              2.61/08TH-09TH              3.00/08TH-09TH              
+JUL          4.55          +0.88              1.47/14TH-15TH              1.48/14TH-15TH              
+AUG          3.78          +0.36              2.33/09TH                   2.33/09TH                   
+SEP          5.65          +1.59              1.64/05TH-06TH              1.92/05TH-06TH              
+OCT          3.00          -0.81              1.42/04TH-05TH              1.51/04TH-05TH              
+NOV          2.34          -1.62              1.01/19TH-20TH              1.06/19TH-20TH              
+DEC          0.85          -2.09              0.37/30TH-01ST              0.98/30TH-01ST              
+---------------------------------------------------------------------------------------------
+ANNUAL       44.59         +0.09              2.61/JUN 08-09              3.00/JUN 08-09              
+
+
+2023 SNOWFALL, DEPARTURES, AND EXTREMES                     HARRISON, ARKANSAS                                          
+---------------------------------------------------------------------------------------------
+MONTH   SNOW      DFN       MAX/CALENDAR DAY       MAX/24 HOUR       GREATEST DEPTH/DATE(S)
+---------------------------------------------------------------------------------------------
+JAN     11.0     +8.8       9.0/24TH               9.0/24TH          10/25TH           
+FEB     0.0      -3.4       0.0                    0.0               1/01ST-02ND       
+MAR     0.0      -2.2       0.0                    0.0               0                 
+APR     0.0       0.0       0.0                    0.0               0                 
+OCT     T         0.0       T/29TH                 T/29TH            0                 
+NOV     0.0      -0.2       0.0                    0.0               0                 
+DEC     T        -1.5       T/25TH                 T/25TH            0                 
+---------------------------------------------------------------------------------------------
+ANN     11.0     +1.5       9.0/JAN 24             9.0/JAN 24        10/JAN 25         
+
+
+---------------------------------------------------------------------------------------------
+MISCELLANEOUS DATA (FIRST/LAST DATES, ETC.)
+---------------------------------------------------------------------------------------------
+DAYS WITH MINIMUMS AT OR BELOW 32 DEGREES.........................63
+DAYS WITH MINIMUMS AT OR BELOW 20 DEGREES.........................09
+DAYS WITH MINIMUMS AT OR BELOW 0 DEGREES..........................00
+DAYS WITH MAXIMUMS AT OR BELOW 32 DEGREES.........................04
+DAYS WITH MAXIMUMS AT OR ABOVE 90 DEGREES.........................39
+DAYS WITH MAXIMUMS AT OR ABOVE 100 DEGREES........................00
+DAYS WITH MAXIMUMS AT OR ABOVE 105 DEGREES........................00
+DAYS WITH MAXIMUMS AT OR ABOVE 110 DEGREES........................00
+LAST FREEZE.......................................................APRIL 24TH
+FIRST 80-DEGREE DAY...............................................MARCH 31ST
+FIRST 90-DEGREE DAY...............................................JUNE 24TH
+FIRST 100-DEGREE DAY..............................................NONE
+LAST 100-DEGREE DAY...............................................NONE
+LAST 90-DEGREE DAY................................................SEPTEMBER 5TH
+LAST 80-DEGREE DAY................................................NOVEMBER 8TH
+FIRST FREEZE......................................................OCTOBER 30TH
+
+
+---------------------------------------------------------------------------------------------
+NEW DAILY RECORDS
+---------------------------------------------------------------------------------------------
+
+.RECORD HIGHS...
+DATE    RECORD TYPE                     NEW RECORD        OLD RECORD        
+01/14   COOLEST HIGH TEMPERATURE        7 IN 2023         |*CHECK HRO CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+01/15   COOLEST HIGH TEMPERATURE        12 IN 2023        |*CHECK HRO CLIMATE BOOK OR RER FOR PREVIOUS RECORD/YEAR(S)*|
+02/21   HIGH TEMPERATURE                76 IN 2023        76 IN 1897        
+02/27   HIGH TEMPERATURE                84 IN 2023        77 IN 1932        
+
+.RECORD LOWS...
+DATE    RECORD TYPE                     NEW RECORD        OLD RECORD        
+01/16   LOW TEMPERATURE                 -4 IN 2023        -1 IN 1977        
+
+.RECORD RAINFALL...
+DATE    NEW RECORD        OLD RECORD        
+07/09   2.28 IN 2023      1.72 IN 1905      
+07/17   2.44 IN 2023      1.13 IN 1995      
